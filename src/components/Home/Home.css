@@ -1,0 +1,23 @@
+ul li{
+    list-style: none;
+    margin: 10px 0;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.btnEditar{
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}  
+.btnExcluir{
+    background-color: red;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+} 
